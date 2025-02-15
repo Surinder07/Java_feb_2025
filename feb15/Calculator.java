@@ -23,7 +23,6 @@ public class Calculator {
                 int sum = x + y;
                 System.out.println(sum);
 
-
                 break;
 
             case 2 :
