@@ -14,11 +14,16 @@ public class Calculator {
         System.out.println("5. Modulus");
         System.out.println("0. Exit");
 
-        int input = 2;
+        int input = 1;
         switch (input) {
             case 1:
-                // Addition
-                // x = 1, x = 20, sum = 21
+
+                int x = 10;
+                int y = 20;
+                int sum = x + y;
+                System.out.println(sum);
+
+
                 break;
 
             case 2 :
