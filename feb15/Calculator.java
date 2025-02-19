@@ -36,10 +36,5 @@ public class Calculator {
             default:
                 System.out.println("Power down ");
         }
-
-
-
-
-
     }
 }
