@@ -125,6 +125,43 @@ public class Mobile {
 
 
 
+## Constructor 
+
+What is a constructor ?
+
+kind of method which has same name as class name which 
+initialize the object.
+
+its does not have return type, not even void. 
+
+
+
+Student{
+
+    Student(){
+    
+    }
+
+
+
+}
+
+
+NOTE : // if there is no contructor, class automatically creates a default const
+but if you create any other constructor then there will no default constructor created by class 
+itself. 
+
+then you have to create it yourself [default constructor]
+
+
+
+
+
+
+
+
+
+
 
 
 
