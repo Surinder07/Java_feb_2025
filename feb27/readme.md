@@ -87,6 +87,14 @@ git commit -m "put a description of the message"
 git push 
 
 git log 
+5 mins break - 
+
+
+branches 
+merge 
+merge conflict 
+Pull request [PR]
+assignment 
 
 
 
