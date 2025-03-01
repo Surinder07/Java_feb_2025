@@ -87,7 +87,11 @@ int x = 10;  // local variable
 Student s = new Student(101, "Varun");
 
 
-
+static 
+1. variable 
+2. method 
+3. class 
+4. block 
 
 
 

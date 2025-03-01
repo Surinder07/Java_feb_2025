@@ -1,4 +1,4 @@
-package mar1;
+package mar1.staticdemo;
 
 public class Product {
 

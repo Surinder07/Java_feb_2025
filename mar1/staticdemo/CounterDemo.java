@@ -1,4 +1,4 @@
-package mar1;
+package mar1.staticdemo;
 
 public class CounterDemo {
      int x = 10; // 9
