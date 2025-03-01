@@ -1,29 +1,36 @@
 package mar1.staticdemo;
 
 public class BlockDemo {
-
-    // Constructor
+    // Constructor // 3
     BlockDemo(){
         System.out.println("Inside the constructor...");
     }
 
-    // static block
+    // static block // 1
     static {
         System.out.println("Static Block ");
     }
 
-    // instance block
+    static  {
+        System.out.println("static 2");
+    }
+
+    // instance block  // 2
     {
         System.out.println("Instance Block");
     }
 
-    // normal method
+    // normal method // 4
     public void set(){
         System.out.println("Inside non static method");
     }
-    // static method
+    // static method // 5
     public static void show(){
         System.out.println("Static Method.");
+    }
+
+    public static void main(String[] args) {
+
     }
 
 }
