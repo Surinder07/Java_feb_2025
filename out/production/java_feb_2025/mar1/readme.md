@@ -90,7 +90,8 @@ Student s = new Student(101, "Varun");
 static 
 1. variable 
 2. method 
-3. class 
+3. class - static inner class 
+Inner class, static inner class, Annonymous inner class
 4. block 
 
 
