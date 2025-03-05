@@ -20,5 +20,9 @@ public class StringMethodDemo {
 
         // https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
 
+
+        // String name = "Pragra";
+        // reverse this String
+
     }
 }
