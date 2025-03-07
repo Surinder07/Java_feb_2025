@@ -84,5 +84,24 @@ b711dfe0e48b4d3ada0f765cc7402b1966510757 - feature
 -- added manually from github
 
 
+## git pull
+to fetch the remote changes to the local branch 
+
+
+
+
+## Pull Request [PR]
+
+main 
+staging
+feature 
+
+
+ask our teammates to approve our code before it can be merged to staging/main
+
+
+
+
+
 
 
