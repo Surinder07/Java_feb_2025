@@ -75,3 +75,33 @@ b711dfe0e48b4d3ada0f765cc7402b1966510757 - feature
 77f3b870cb3df78d91c5f072d04fc55b5abd13a6 - staging
 
 77f3b870cb3df78d91c5f072d04fc55b5abd13a6 - main 
+
+
+
+
+
+
+-- added manually from github
+
+
+## git pull
+to fetch the remote changes to the local branch 
+
+
+
+
+## Pull Request [PR]
+
+main 
+staging
+feature 
+
+
+ask our teammates to approve our code before it can be merged to staging/main
+
+
+
+
+
+
+
