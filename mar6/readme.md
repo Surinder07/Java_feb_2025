@@ -47,5 +47,15 @@ git checkout -b branch_name
 
 
 
+   main - 
+    \
+    staging - 
+     \
+    feature 
 
 
+git branch branch_name 
+
+git checkout branch_name
+
+git checkout -b branch_name
