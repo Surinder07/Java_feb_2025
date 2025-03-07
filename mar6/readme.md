@@ -41,7 +41,9 @@ one feature
 git branch branch_name 
 
 
-
+# command
+to create and switch the branch at the same time
+git checkout -b branch_name
 
 
 
