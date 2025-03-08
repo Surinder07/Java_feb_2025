@@ -177,6 +177,11 @@ Camera    Calculator    MusicPlayer
                   
 
 
+## Object 
+
+every class in Java has Object class as super class 
+
+
 
 
 

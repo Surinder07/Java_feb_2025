@@ -151,6 +151,40 @@ inheriting the properties of the parent class
          SmartPhone  - Child class / Sub class  / Derived class 
 
 
+[Multi level inheritance is not supported in Java directly ]
+
+
+Single
+A
+|
+B
+
+
+Multi level
+A
+|
+B
+|
+C
+
+Multiple inheritance- 
+[not supported in Java classes directlty ] - interfaces[which supports it ] 
+          
+Camera    Calculator    MusicPlayer
+      |      |        |
+         Smartphone[Iphone/Samsung]
+            
+                  
+
+
+## Object 
+
+every class in Java has Object class as super class 
+
+
+
+
+
 
 
 
