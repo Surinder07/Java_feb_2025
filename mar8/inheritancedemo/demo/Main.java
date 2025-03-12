@@ -2,9 +2,12 @@ package mar8.inheritancedemo.demo;
 
 public class Main {
     public static void main(String[] args) {
-
-        Dog dog = new Dog(); // dog class object
-        dog.makeSound();
+        // x = 10 ,  10 < 20
+        // x = 20, 20<20
+        for(int x = 10; x < 20; x = x + 1) {
+            System.out.print("value of x : " + x ); // 10
+            System.out.println();
+        }
     }
 }
 
