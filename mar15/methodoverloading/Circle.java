@@ -11,13 +11,13 @@ public class Circle extends Shape{
 /*
 
 
-                    Payment [makePayment()]
+                    Payment [makePayment()]     - Parent
          |              |           |           |
-       CreditCard      PayPal       UPI         Interac
+       CreditCard      PayPal       UPI         Interac   - Child
 
 
             all should be assigned to Payment
 
 
-
+take break 15-20 mins. Discuss the solution after
  */

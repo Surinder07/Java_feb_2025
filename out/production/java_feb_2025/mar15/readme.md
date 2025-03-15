@@ -41,6 +41,10 @@ Runtime - Dynamic Polymorphism
 [Method Overriding]
 
 
+same name and different implementation and this is acheived in
+when there is inheritance 
+
+
 
 
 
@@ -50,6 +54,68 @@ javac Test.java   ----> .class file
 
 # Runtime
 java Test.Java    -----> to run the class 
+
+
+
+
+
+## IS_A relationship 
+
+    Inheritance 
+    Dog is a animal             Dog has a leg
+    Chair is a furniture       
+    Car is a vehicle            Car has a steering wheel 
+    Mobile is a device          Mobile has a  MusicPlayer
+
+Animal                  Dog
+ |
+Dog                     Leg
+
+## Has a Relationship
+Composition 
+
+
+
+Employee has address 
+employee is a address 
+
+
+Name - FirstName middleName LastName 
+Address - streeNumnber, City, Province, Country, PostalCode
+
+110 Matheson Blvd, Mississauga , ON, ABC 123
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Abstraction 
+
+Car 
+showing only essential details... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
