@@ -2,12 +2,12 @@ package mar15.comp;
 
 public class Employee {
     private int id;
-    private String name;  // FirstName, MiddleName, LastName
+    private Name name;  // FirstName, MiddleName, LastName
     private String email;
     private Address address;
     private double salary; // Base Bonus
 
-    public Employee(int id, String name, String email, Address address, double salary) {
+    public Employee(int id, Name name, String email, Address address, double salary) {
         this.id = id;
         this.name = name;
         this.email = email;
@@ -23,11 +23,11 @@ public class Employee {
         this.id = id;
     }
 
-    public String getName() {
+    public Name getName() {
         return name;
     }
 
-    public void setName(String name) {
+    public void setName(Name name) {
         this.name = name;
     }
 

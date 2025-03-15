@@ -90,17 +90,20 @@ Address - streeNumnber, City, Province, Country, PostalCode
 
 
 
-
-
-
-
-
-
-
 ## Abstraction 
 
 Car 
 showing only essential details... 
+
+1. abstract classes  [0-100%] 
+2. Interfaces  [100%]
+
+
+abstract
+classes which are declared as abstract
+
+
+
 
 
 
