@@ -90,6 +90,7 @@ Address - streeNumnber, City, Province, Country, PostalCode
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -97,11 +98,26 @@ Address - streeNumnber, City, Province, Country, PostalCode
 
 
 
+=======
+>>>>>>> @{-1}
 ## Abstraction 
 
 Car 
 showing only essential details... 
 
+<<<<<<< HEAD
+=======
+1. abstract classes  [0-100%] 
+2. Interfaces  [100%]
+
+
+abstract
+classes which are declared as abstract
+
+
+
+
+>>>>>>> @{-1}
 
 
 
