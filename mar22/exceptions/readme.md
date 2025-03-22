@@ -39,3 +39,9 @@ Exception
 RuntimeException
     |
 ArithmeticException
+
+## 
+
+throw  - to create a new exception 
+
+throws - added to the method signature, 

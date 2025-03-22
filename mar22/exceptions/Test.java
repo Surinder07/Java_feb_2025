@@ -11,19 +11,19 @@ public class Test {
 
         System.out.println("Enter the first number ");
         int y = scanner.nextInt();
+        int result = 1000;
 
         try {
-             int result = x / y;
-
+            System.exit(0);
+              result = x / y;
             System.out.println(result);
 
         }
-        catch (NullPointerException e ){
-            e.printStackTrace();
-        }
+
         finally{
             System.out.println("Executed always...");
             scanner.close();
+            System.out.println(result);
             //database connection close
         }
 
