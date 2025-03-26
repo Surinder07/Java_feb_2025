@@ -4,7 +4,6 @@ public class Main {
     public static void main(String[] args) {
 
         // static method can be called with the name of the class
-
         //Computer computer = new Computer();
         Computer.test(); // static methods does not need object to be called
 

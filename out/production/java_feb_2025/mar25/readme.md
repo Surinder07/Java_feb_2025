@@ -50,8 +50,8 @@ ArrayOutOfBound
 
 when a class defined inside another class 
 
-1. Local Inner class 
-2. Member Inner class 
+1. Local Inner class  - class inside a method
+2. Member Inner class   - class inside another class
 3. Static Inner class   - IMP
 4. Annoymous Inner class  - IMP
 
@@ -61,6 +61,19 @@ static ?
 2. method 
 3. block 
 4. class 
+
+
+
+## 4. Annonymous Inner class - IMP
+Java 8 Lambda - does not have name
+Lambda - AWS - serverless server
+
+
+classes without the name is called Annoymous inner class
+This set the path of learning Java 8 Lambda
+
+
+
 
 
 

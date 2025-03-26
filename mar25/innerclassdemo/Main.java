@@ -3,7 +3,6 @@ package mar25.innerclassdemo;
 public class Main {
     public static void main(String[] args) {
 
-
         // 1. Object for outerclass is required.
         OuterClass outerClass = new OuterClass();
         outerClass.set();
