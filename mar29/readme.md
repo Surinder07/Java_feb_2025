@@ -97,6 +97,37 @@ advantage of using generics
 
 
 
+## Maven
+
+It is a build tool. project management tool 
+
+LOMBOK ? Library 
+boiler plate code 
+
+Autovalue
+
+
+gradle : research about gradle
+
+
+## File Handling ?
+
+working with files and adding/removing , manupulating files 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
