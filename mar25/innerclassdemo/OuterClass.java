@@ -2,6 +2,8 @@ package mar25.innerclassdemo;
 
 public class OuterClass {
 
+
+
     int x = 10;
 
     public void set(){
