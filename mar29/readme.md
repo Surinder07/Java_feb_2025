@@ -90,6 +90,11 @@ utitility classes
 
 introuduced to have type safety in Java collections.
 
+what is meant by Generic? 
+advantage of using generics
+1. Type safety 
+2. Flexibility of choosing a collection type/object type
+
 
 
 

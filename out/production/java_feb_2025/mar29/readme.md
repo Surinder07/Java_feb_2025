@@ -86,6 +86,14 @@ utitility classes
 
 
 
+## Generics 
+
+introuduced to have type safety in Java collections.
+
+what is meant by Generic? 
+
+
+
 
 
 

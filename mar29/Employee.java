@@ -55,8 +55,5 @@ class Main{
           System.out.println(e1.getId());
           System.out.println(e1);
 
-
-
-
      }
 }

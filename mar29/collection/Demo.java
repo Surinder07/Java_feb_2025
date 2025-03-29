@@ -8,13 +8,14 @@ public class Demo {
 
     public static void main(String[] args) {
 
-        //
-        List list = new ArrayList<>();
+        // Raw type list
+        // List list2 = new ArrayList();
+
+        // this is generic type list
+        List<Integer> list = new ArrayList<>();
         list.add(10);
         list.add(20);
         list.add(30);
-        list.add(40.23);
-        list.add("ABC");
         System.out.println(list);
 
         // Generics : which
