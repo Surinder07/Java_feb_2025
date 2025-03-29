@@ -8,6 +8,11 @@ public class Box<K,V> {
         this.item1 = item1;
         this.item2 = item2;
     }
+
+    public K sum(){
+
+        return item1;
+    }
 }
 
 class Main {
@@ -22,3 +27,25 @@ class Main {
 
 // Container , product1 , product2
 // T,U
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// 12:35 we will start
