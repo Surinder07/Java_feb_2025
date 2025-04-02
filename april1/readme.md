@@ -131,6 +131,80 @@ if we dont know the size , its gonna grow dynamically = arraylist
 
 
 
+## LinkedList 
+Singly linkedlist 
+doubly linkedlist 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 elements 
+100
+1000
+1M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for search operations 
+ArrayList is preferred?  with the index
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for insertion 
+linkedList 
+ArrayList
+
+if we have to add element at first/first occurent in list 
+which one we should use 
+arraylist or linkedlist - 
+1M elements elements 
+
+0       1   2.... 1M
+
+Search /read opearations 10 - 1M - ArrayList 
+manipulation/ insertions or deletions - LinkedList 
+
 
 
 

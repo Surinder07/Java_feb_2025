@@ -25,6 +25,7 @@ public class Test {
 
         Object[] objects = list.toArray();
 
+
         List<Integer> list2 = new ArrayList<>();
         list.add(1000);
         list.add(20000);
