@@ -103,11 +103,6 @@ if we dont know the size , its gonna grow dynamically = arraylist
 
          */
 
-
-
-
-
-
 // Java 8
 
        //  List<Integer> list = new ArrayList<>();
@@ -121,33 +116,9 @@ if we dont know the size , its gonna grow dynamically = arraylist
          */
 
 
-
-
-
-
-
-
-
-
-
-
 ## LinkedList 
 Singly linkedlist 
 doubly linkedlist 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -161,35 +132,8 @@ doubly linkedlist
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 for search operations 
 ArrayList is preferred?  with the index
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 for insertion 
 linkedList 
@@ -204,20 +148,6 @@ arraylist or linkedlist -
 
 Search /read opearations 10 - 1M - ArrayList 
 manipulation/ insertions or deletions - LinkedList 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
