@@ -5,9 +5,31 @@ import java.util.*;
 public class Test {
     public static void main(String[] args) {
 
-        Set<Integer> set = new HashSet<>();
+        List<Integer> list = new ArrayList<>();
+        list.add(10);
+        list.add(10);
+        list.add(30);
+        list.add(40);
+        list.add(40);
+        System.out.println("List : "+list);
 
-        set.add(10);
+        Set<Integer> set = new HashSet<>(list);
+        System.out.println("Set : "+set);
+
+
+
+
+        /*
+         10    20    30   40  50
+
+        Arrays.
+        Iterator
+
+         */
+
+
+
+       /* set.add(10);
         set.add(10);
         set.add(30);
         set.add(30);
@@ -23,8 +45,9 @@ public class Test {
 
 
         // TreeSet
+        List<Integer> list = Arrays.asList(10,34,53,23,53,32,34,53,232,53,54323,43,34);
 
-        Set<Integer> treeSetDemo = new TreeSet<>();
+        Set<Integer> treeSetDemo = new TreeSet<>(list);
         treeSetDemo.add(30);
         treeSetDemo.add(550);
         treeSetDemo.add(3230);
@@ -46,31 +69,19 @@ public class Test {
         // int[] arr = {10,34,53,23,53,32,34,53,232,53,54323,43,34};
         // remove the duplicates from this array.
 
+        // find duplicates from the array.
+
+
+       // List<Object> list = Arrays.asList(10,34,53,23,53,32,34,53,232,53,54323,43,34);
+
+        int[] arr = {10,34,53,23,53,32,34,53,232,53,54323,43,34};
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        // HashSet ---- HashMap ---- LinkedList of ArrayList
+        //   0 1 2 3 4 5 ..... 9
+*/
 
     }
 }

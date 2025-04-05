@@ -38,6 +38,7 @@ HashSet
 
 TreeSet 
 : Natual Sorting order 
+no null is allowed. 
 
 
 # LinkedHashSet
@@ -46,13 +47,7 @@ insertion order
 
 
 
-
-
-
-
-
-
-
+ 
 
 
 
