@@ -23,3 +23,45 @@ Arrays
 
 
 # Comparator 
+
+
+
+Map  - Interface 
+
+
+JSON - KEY - VALUE 
+
+
+stores the data in key value pair 
+Map<K,V>  - hash table 
+
+
+1. HashMap
+
+
+2. TreeMap
+3. LinkedHashMap
+
+
+ConcurrentHashMap 
+IdentityHashMap
+Synchronized HashMap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

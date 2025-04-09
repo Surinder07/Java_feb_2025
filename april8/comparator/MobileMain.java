@@ -19,7 +19,7 @@ public class MobileMain {
 
 
         // based on Capacity
-        Collections.sort(list, new CapacityComparator());
+       // Collections.sort(list, new CapacityComparator());
 
         // SOLID -
         /*
@@ -36,6 +36,7 @@ public class MobileMain {
             3. Account Balance
 
             1. Name comparator
+            2. Account Balance
 
 
 
