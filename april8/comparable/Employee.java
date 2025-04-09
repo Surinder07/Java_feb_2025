@@ -1,4 +1,4 @@
-package april8;
+package april8.comparable;
 
 public class Employee implements Comparable<Employee>{
     int id;
